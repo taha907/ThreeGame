@@ -1,3 +1,4 @@
+kullandığım versiyon -> 6000.4.0a2
 Sahneyi başlatmak için, ThirdPerson->scenes içindeki PlayGround sahnesini başlatın.
 
 Canavar saldırı mekanizması:
